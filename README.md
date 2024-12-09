@@ -59,4 +59,3 @@ This project implements a system to efficiently manage and search a collection o
 - **Similarity Calculation**: The system calculates and displays the similarity percentage between related animes in the graph.
 - **Graph Traversal**: The results of BFS and DFS traversals are printed, showing the related animes for a selected anime.
 
-## Example Output
